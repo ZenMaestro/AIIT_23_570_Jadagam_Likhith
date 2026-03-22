@@ -1,7 +1,3 @@
-Here’s a **premium, styled README.md** with badges, clean UI, and modern GitHub design (perfect for college + portfolio 🔥):
-
----
-
 # 🚀 EXP-15: GitHub Repository Setup & Version Control
 
 <p align="center">
